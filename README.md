@@ -1,2 +1,5 @@
 # miniproject_1
-Thingyyyyy
+
+The mini-project of the first module.
+
+![Example screenshot](Assets/mini-project_1.png)
